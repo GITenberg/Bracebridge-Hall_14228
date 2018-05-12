@@ -25,6 +25,8 @@ description: "Bracebridge Hall, or The Humorists, A Medley was written by Washin
   \ Irving in 1821, while he lived in England, and published in 1822. This episodic\
   \ novel was originally published under his pseudonym Geoffrey Crayon.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14228#Bracebridge-Hall
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
