@@ -1,0 +1,44 @@
+_repo: Bracebridge-Hall_14228
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: "Bracebridge Hall, or The Humorists, A Medley was written by Washington\
+  \ Irving in 1821, while he lived in England, and published in 1822. This episodic\
+  \ novel was originally published under his pseudonym Geoffrey Crayon.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14228'
+  wikidata: Q4953226
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, English -- Fiction'
+- !lcc 'PS'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: Bracebridge Hall
+url: http://www.gutenberg.org/ebooks/14228
+wikipedia:
+- https://en.wikipedia.org/wiki/Bracebridge_Hall
